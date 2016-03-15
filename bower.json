@@ -1,0 +1,23 @@
+{
+  "name": "your-proj",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Your Name <youremail@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/you/yourproj",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
