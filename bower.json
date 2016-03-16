@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Your Name <youremail@gmail.com>"
+    "Molly Curtin <patternandshape@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/you/yourproj",
+  "homepage": "https://github.com/patternandshape/js-template",
   "moduleType": [],
   "ignore": [
     "**/.*",
